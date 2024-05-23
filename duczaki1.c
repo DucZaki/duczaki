@@ -32,3 +32,4 @@ int main(void){
     printf("trong mảng có %d số là số nguyên tố ", check(a,n));
     return 0;
 }
+hello mày nguu vãi đái
