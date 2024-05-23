@@ -1,4 +1,7 @@
 #include<stdio.h>
+void hello(){
+printf(" mày đep trai vãi đái");
+}
 void nhap_mang(int a[], int n){
     for( int i =0; i<n; i++){
         printf("Nhập vào giá trị của a[%d]:", i+1);
@@ -32,4 +35,3 @@ int main(void){
     printf("trong mảng có %d số là số nguyên tố ", check(a,n));
     return 0;
 }
-hello mày nguu vãi đái
