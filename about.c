@@ -31,5 +31,6 @@ int main(void){
     nhap_mang(a, n);
     printf("trong mảng có %d số là số nguyên tố ", check(a,n));
     printf("anh đức đẹp trai vãi đái");
+    printf("dit me m khong sua cho tao a ");
     return 0;
 }
