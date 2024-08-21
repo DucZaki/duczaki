@@ -1,6 +1,5 @@
 #include<stdio.h>
 void hello(){
-printf(" mày đep trai vãi đái");
 }
 void nhap_mang(int a[], int n){
     for( int i =0; i<n; i++){
@@ -33,6 +32,5 @@ int main(void){
     int a[n];
     nhap_mang(a, n);
     printf("trong mảng có %d số là số nguyên tố ", check(a,n));
-    printf("anh đức đẹp trai vãi đái");
     return 0;
 }
