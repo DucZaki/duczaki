@@ -1,6 +1,4 @@
 #include<stdio.h>
-void hello(){
-}
 void nhap_mang(int a[], int n){
     for( int i =0; i<n; i++){
         printf("Nhập vào giá trị của a[%d]:", i+1);
