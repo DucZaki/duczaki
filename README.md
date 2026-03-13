@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DucZaki
-- 🌱 I’m currently learning IT
 - ⚡ Fun fact: afraid of insects
 
 <!---
